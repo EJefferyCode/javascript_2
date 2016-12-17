@@ -1,0 +1,19 @@
+h1 {
+color:blue;
+font-family:Times New Roman;
+}
+
+#other {
+color:lawngreen;
+background-color:black;
+border-radius: 5px;
+height:30px;
+width:120px;
+}
+body {
+background-color:black;
+}
+
+li {
+color:lawngreen;
+}
